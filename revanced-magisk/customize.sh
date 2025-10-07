@@ -203,5 +203,5 @@ fi
 rm -rf "${MODPATH:?}/bin" "$MODPATH/$PKG_NAME.apk"
 
 ui_print "* Done"
-ui_print "  by Shirotachii (github.com/shirotachi)"
+ui_print "  by Shirotachi (github.com/shirotachi)"
 ui_print " "
